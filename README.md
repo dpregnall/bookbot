@@ -1,3 +1,7 @@
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 # Welcome to the *bookbot* project
 
 This program reads in a book from a text file (e.g., [Frankenstein](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt)) and returns a report summarizing: 
